@@ -61,9 +61,11 @@ The same is true for lots 1 and 2, with p-values of 1 and .6072, we would determ
 presumed population mean. 
 
 Lot 1
+
 ![This is an image](https://github.com/jstawarz/MechaCar_Statistical_Analysis/blob/main/resources/lot1.png)
 
 Lot 2
+
 ![This is an image](https://github.com/jstawarz/MechaCar_Statistical_Analysis/blob/main/resources/lot2.png)
 
 However, for Lot 3, with a p-value of .04168 that falls below the .05 significance level, we would determine that there is a statistical difference
@@ -71,6 +73,7 @@ between the mean of this lot and the presumed population mean. We would interpre
 deficient as the mean pounds per square inch is differing from the norm. 
 
 Lot 3
+
 ![This is an image](https://github.com/jstawarz/MechaCar_Statistical_Analysis/blob/main/resources/lot3.png)
 
 
